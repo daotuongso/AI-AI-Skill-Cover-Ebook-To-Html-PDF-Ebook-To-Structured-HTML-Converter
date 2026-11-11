@@ -1,0 +1,14 @@
+{
+  "skill_id": "AI-Skill-Cover-Ebook-To-Html",
+  "revision": "Rev.0",
+  "draft": "Draft 01",
+  "status": "CONTENT_DRAFT_TECHNICAL_QA_PASS",
+  "pilot_outside_catalogue": true,
+  "approved": false,
+  "release_authorized": false,
+  "business_uat": "NOT_RUN",
+  "parent_commit": "34c758c0b55906dfac22b93370a92e5324bf767b",
+  "core_commit": "7de182cfee4e6fb1dc9f65ad7c62636d903b8ff1",
+  "core_approved": false,
+  "technical_qa": "SYNTHETIC_PASS_8_PLUS_PACK_VERIFICATION"
+}

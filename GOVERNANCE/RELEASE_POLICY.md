@@ -1,0 +1,2 @@
+# Approval, licensing, release boundaries
+`approved=false` and `release_authorized=false` remain in manifest. Business UAT NOT_RUN. GitHub remote verification (G6), even with byte SHA checks, proves deployment evidence only. No automatic license to redistribute PDF, HTML derivative, private Parent/Core, fonts or images. Owner must approve rights and business correctness separately; release is a distinct authorization. Third-party dependency licenses must be reviewed before external commercial distribution.

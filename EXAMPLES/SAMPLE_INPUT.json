@@ -1,0 +1,15 @@
+{
+  "sample": true,
+  "skill_id": "AI-Skill-Cover-Ebook-To-Html",
+  "input_pdf": "fixtures/SAMPLE_ebook.pdf",
+  "rights_confirmation": true,
+  "authorization": "AUTHORIZED_LOCAL",
+  "data_classification": "SAMPLE",
+  "output_directory": "out/sample",
+  "language": "vi",
+  "acceptance_criteria": [
+    "offline UTF-8 HTML",
+    "linked TOC",
+    "page provenance"
+  ]
+}

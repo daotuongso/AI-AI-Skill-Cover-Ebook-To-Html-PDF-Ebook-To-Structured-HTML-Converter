@@ -1,0 +1,9 @@
+{
+  "build_date": "2026-11-11",
+  "test_type": "offline synthetic",
+  "owner_approval": false,
+  "github_push": false,
+  "real_pdf_tested": false,
+  "read_contract_count": 10,
+  "form_count": 20
+}

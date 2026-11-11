@@ -1,0 +1,3 @@
+# Acceptance criteria (draft)
+
+AC-01 The converter blocks unconfirmed rights, encrypted, invalid, scan-only and overwrite risks. AC-02 Converts a synthetic 2-page native PDF to two linked offline HTML chapter pages. AC-03 HTML text is escaped and UTF-8, CSS local, no scripts or external assets. AC-04 Every generated TOC href resolves to an existing chapter file. AC-05 Reports source page count, text coverage, warnings and tool metadata. AC-06 Pack has all ten Read Contract files with links, three contracts, G0–G7, Methodology, 20 Forms, synthetic examples, QA, Governance and valid SHA-256 ZIP. AC-07 Actual ebook fidelity/rights and real UAT remain UNKNOWN. No release without owner decision.

@@ -1,0 +1,3 @@
+# Use cases
+
+UC-01: Rights-cleared born-digital Vietnamese manual → offline HTML; preserved UTF-8 and page navigation; Owner manually confirms heading hierarchy. UC-02: Research PDF with two columns → technical output generated with `READING_ORDER_REVIEW_REQUIRED`; reject business acceptance until manual reorder validated. UC-03: Image-based scanned book → `BLOCKED` by prototype; optional OCR is future scope. UC-04: PDF with tables → paragraph-level output may be lossy; warn review, do not invent tabular semantics. UC-05: confidential proprietary book → local-only outputs, no repo insertion or external transmission.

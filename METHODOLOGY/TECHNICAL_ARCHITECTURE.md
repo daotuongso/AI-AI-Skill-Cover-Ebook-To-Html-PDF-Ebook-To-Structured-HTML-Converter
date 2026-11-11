@@ -1,0 +1,3 @@
+# Technical reference architecture
+
+Input local PDF → PyMuPDF page iterator → span-line extraction + graphics extraction → escaped HTML5 page components → local CSS/assets → toc.json + conversion-report.json → independent validator. No database, external service, API key or GitHub write. Prototype is Python 3.10+ and PyMuPDF 1.26 series. Source doc IP and resulting HTML stay local. Security boundaries: validate input exists/type, block encrypted, no overwrite, HTML escape all source text, no absolute resource URLs, no active content copying. Verification tools do not execute embedded PDF JavaScript.

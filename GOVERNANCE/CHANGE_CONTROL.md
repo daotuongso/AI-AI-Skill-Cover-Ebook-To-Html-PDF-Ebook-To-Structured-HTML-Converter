@@ -1,0 +1,2 @@
+# Change control
+Any change in OCR, scanned-PDF support, external AI/cloud processing, semantic table reconstruction, commercial license, real customer data processing or repo publication requires a recorded Change Request and Owner authorization. Original Parent Rev.1 FINAL BASELINE and Core Rev.0 remain unchanged. Never promote this Pilot into Catalogue automatically. Track source commit and bump revision before substantive changes.

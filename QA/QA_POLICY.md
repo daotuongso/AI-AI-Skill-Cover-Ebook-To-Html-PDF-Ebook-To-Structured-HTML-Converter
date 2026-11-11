@@ -1,0 +1,3 @@
+# Child QA Policy
+
+Q1 full 10 Child Read Contract paths and links, independent Parent/Core confirmation; Q2 source and rights trace; Q3 positive synthetic conversion and at least two actual negative cases; Q4 unicode, HTML escaping, offline relative links, no output overwrite; Q5 SHA-256 Manifest hash-of-bytes excluding itself, clean ZIP exact path/bytes; Q6 no secrets/customer PDFs; Q7 approve/release flags false and open domain gaps. Test report must list actual commands and outcomes; no inferred CI, UAT or successful remote Github claims. Full specialized business validation and PDF fidelity sampling remain OPEN.

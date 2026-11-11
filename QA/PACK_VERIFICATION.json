@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-11-11",
+  "parent_factory_upstream_validator_executed": false,
+  "actual_synthetic_cases_passed": 8,
+  "real_pdf_tested": false,
+  "business_uat": "NOT_RUN",
+  "github_remote_verified": false,
+  "markdown_link_check": "PASS",
+  "child_read_contract": "PASS_10",
+  "manifest_bytes": "PASS",
+  "zip_clean_extraction": "PASS",
+  "scope": "independent local static pack verification"
+}
